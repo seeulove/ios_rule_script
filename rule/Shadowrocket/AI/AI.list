@@ -1,0 +1,25 @@
+# NAME: AI
+# AUTHOR: Jules
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-08-14 11:27:56
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN,auth0.openai.com
+
+# Google AI
+DOMAIN,gemini.google.com
+
+# Microsoft AI
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
+
+# Anthropic
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
