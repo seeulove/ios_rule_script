@@ -10,6 +10,7 @@ The domains in this list were compiled from the following official sources:
 *   **Google Gemini:** [Gemini app firewall settings](https://support.google.com/a/answer/15627649?hl=en)
 *   **Microsoft Copilot:** [Microsoft 365 Copilot requirements](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-requirements)
 *   **Anthropic Claude:** [Anthropic API Documentation](https://docs.anthropic.com/en/api/getting-started)
+*   **Perplexity AI:** [Perplexity Website](https://www.perplexity.ai/)
 
 ## Daily Updates
 
